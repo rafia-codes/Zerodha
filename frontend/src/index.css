@@ -4,3 +4,29 @@
 a{
     text-decoration: none;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  th, td {
+    padding: 12px 20px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  th {
+    background-color: #f9f9f9;
+    font-size: 18px;
+  }
+  tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  .free {
+    color: white;
+    background-color: #4CAF50;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 14px;
+    display: inline-block;
+  }
