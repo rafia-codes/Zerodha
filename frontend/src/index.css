@@ -4,6 +4,10 @@
 a{
     text-decoration: none;
 }
+ul li{
+  list-style: none;
+  margin-bottom: 12px;
+}
 table {
     width: 100%;
     border-collapse: collapse;
