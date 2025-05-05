@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-pic.jpg
+assets/images/pic.jpg
 
 # Editor directories and files
 .vscode/*
